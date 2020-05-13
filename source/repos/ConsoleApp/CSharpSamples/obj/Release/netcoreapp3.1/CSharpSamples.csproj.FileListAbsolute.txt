@@ -1,0 +1,11 @@
+C:\Users\Lanka\source\repos\ConsoleApp\CSharpSamples\bin\Release\netcoreapp3.1\CSharpSamples.exe
+C:\Users\Lanka\source\repos\ConsoleApp\CSharpSamples\bin\Release\netcoreapp3.1\CSharpSamples.deps.json
+C:\Users\Lanka\source\repos\ConsoleApp\CSharpSamples\bin\Release\netcoreapp3.1\CSharpSamples.runtimeconfig.json
+C:\Users\Lanka\source\repos\ConsoleApp\CSharpSamples\bin\Release\netcoreapp3.1\CSharpSamples.runtimeconfig.dev.json
+C:\Users\Lanka\source\repos\ConsoleApp\CSharpSamples\bin\Release\netcoreapp3.1\CSharpSamples.dll
+C:\Users\Lanka\source\repos\ConsoleApp\CSharpSamples\bin\Release\netcoreapp3.1\CSharpSamples.pdb
+C:\Users\Lanka\source\repos\ConsoleApp\CSharpSamples\obj\Release\netcoreapp3.1\CSharpSamples.csprojAssemblyReference.cache
+C:\Users\Lanka\source\repos\ConsoleApp\CSharpSamples\obj\Release\netcoreapp3.1\CSharpSamples.AssemblyInfoInputs.cache
+C:\Users\Lanka\source\repos\ConsoleApp\CSharpSamples\obj\Release\netcoreapp3.1\CSharpSamples.AssemblyInfo.cs
+C:\Users\Lanka\source\repos\ConsoleApp\CSharpSamples\obj\Release\netcoreapp3.1\CSharpSamples.dll
+C:\Users\Lanka\source\repos\ConsoleApp\CSharpSamples\obj\Release\netcoreapp3.1\CSharpSamples.pdb

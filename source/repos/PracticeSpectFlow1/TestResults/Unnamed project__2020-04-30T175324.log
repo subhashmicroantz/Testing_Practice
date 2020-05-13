@@ -1,0 +1,212 @@
+﻿2020-04-30T17:53:24.8276413+01:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2020-04-30T17:53:24.8280681+01:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.1.48 in Framework netcore31 in x64 mode execution started
+2020-04-30T17:53:24.8280807+01:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\Lanka\source\repos\PracticeSpectFlow1\PracticeSpectFlow1\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2020-04-30T17:53:24.8925738+01:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\Lanka\source\repos\PracticeSpectFlow1\PracticeSpectFlow1\bin\Debug\netcoreapp3.1\PracticeSpectFlow1.dll
+2020-04-30T17:53:24.8934533+01:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\Lanka\source\repos\PracticeSpectFlow1\TestResults" (default)
+2020-04-30T17:53:24.8940986+01:00;VSTestExecutionThread;Info;Profile: 
+2020-04-30T17:53:24.9655374+01:00;VSTestExecutionThread;Info;Log file path: C:\Users\Lanka\source\repos\PracticeSpectFlow1\TestResults\Unnamed project__2020-04-30T175324.log
+2020-04-30T17:53:24.9783206+01:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2020-04-30T17:53:24.9911263+01:00;Thread#12;Info;Checking license
+2020-04-30T17:53:25.0220320+01:00;Thread#12;Info;Evaluation mode: test execution starts in 6 seconds... (this delay is removed in the registered version)
+2020-04-30T17:53:31.0226366+01:00;Thread#12;Info;Evaluation delay finished.
+2020-04-30T17:53:31.0335275+01:00;Thread#12;Info;License check completed
+2020-04-30T17:53:31.0342932+01:00;Thread#12;Info;starting test run
+2020-04-30T17:53:31.0483594+01:00;Thread#12;Info;Discovering target: Default
+2020-04-30T17:53:31.0487620+01:00;Thread#12;Info;Discovering tests from assembly: C:\Users\Lanka\source\repos\PracticeSpectFlow1\PracticeSpectFlow1\bin\Debug\netcoreapp3.1\PracticeSpectFlow1.dll
+2020-04-30T17:53:31.2130706+01:00;Thread#12;Info;Discovered tests from assembly: C:\Users\Lanka\source\repos\PracticeSpectFlow1\PracticeSpectFlow1\bin\Debug\netcoreapp3.1\PracticeSpectFlow1.dll
+2020-04-30T17:53:31.2151046+01:00:Test Suite Dump
+2020-04-30T17:53:31.2175595+01:00:#0: Unnamed project/ - 
+2020-04-30T17:53:31.2176009+01:00:#1: Default - 
+2020-04-30T17:53:31.2176086+01:00:#2: PracticeSpectFlow1 - 
+2020-04-30T17:53:31.2176185+01:00:#3: Student Management System - 
+2020-04-30T17:53:31.2196468+01:00:#4: Admin Login to Student Management System Unsuccessfully - TestAssembly:PracticeSpectFlow1/Feature:Student+Management+System/Scenario:Admin+Login+to+Student+Management+System+Unsuccessfully
+2020-04-30T17:53:31.2197362+01:00:#5: Admin Login to Student Management System Successfully - TestAssembly:PracticeSpectFlow1/Feature:Student+Management+System/Scenario:Admin+Login+to+Student+Management+System+Successfully
+2020-04-30T17:53:31.2198900+01:00:End: Test Suite Dump
+2020-04-30T17:53:31.2468763+01:00:Thread#0:Scheduler: get next test for thread 0
+2020-04-30T17:53:31.2495320+01:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2020-04-30T17:53:31.2497107+01:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2020-04-30T17:53:31.2542222+01:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2020-04-30T17:53:31.2542497+01:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2020-04-30T17:53:31.2542591+01:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2020-04-30T17:53:31.2542678+01:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2020-04-30T17:53:31.2553336+01:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2020-04-30T17:53:31.2574981+01:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-04-30T17:53:31.2623637+01:00:Thread #0: creating new test thread executor for PracticeSpectFlow1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2020-04-30T17:53:31.2658994+01:00:Thread #0: Creating test assembly executor for execution model OutProc
+2020-04-30T17:53:31.2662529+01:00:Thread #0: Creating test assembly executor for execution model OutProc
+2020-04-30T17:53:31.2787000+01:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2020-04-30T17:53:31.2813329+01:00:starting Out Of Process Executor
+2020-04-30T17:53:31.2916493+01:00:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2020-04-30T17:53:31.2992652+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' from .deps.json file
+2020-04-30T17:53:31.2992898+01:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' from .deps.json
+2020-04-30T17:53:31.3007809+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\Lanka\source\repos\PracticeSpectFlow1\PracticeSpectFlow1\bin\Debug\netcoreapp3.1'
+2020-04-30T17:53:31.3013320+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\Lanka\source\repos\PracticeSpectFlow1\PracticeSpectFlow1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2020-04-30T17:53:31.3015227+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\Lanka\source\repos\PracticeSpectFlow1\PracticeSpectFlow1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.exe'
+2020-04-30T17:53:31.3016523+01:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\Lanka\source\repos\PracticeSpectFlow1\PracticeSpectFlow1\bin\Debug\netcoreapp3.1'
+2020-04-30T17:53:31.3133632+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.1'
+2020-04-30T17:53:31.3133849+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.1\Microsoft.VisualStudio.Validation.dll'
+2020-04-30T17:53:31.3135132+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.1\Microsoft.VisualStudio.Validation.exe'
+2020-04-30T17:53:31.3136104+01:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.1'
+2020-04-30T17:53:31.3139683+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.1'
+2020-04-30T17:53:31.3139800+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.1\Microsoft.VisualStudio.Validation.dll'
+2020-04-30T17:53:31.3140775+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.1\Microsoft.VisualStudio.Validation.exe'
+2020-04-30T17:53:31.3141707+01:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.1'
+2020-04-30T17:53:31.3145234+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.1'
+2020-04-30T17:53:31.3145478+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.1\Microsoft.VisualStudio.Validation.dll'
+2020-04-30T17:53:31.3147887+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.1\Microsoft.VisualStudio.Validation.exe'
+2020-04-30T17:53:31.3148901+01:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.1'
+2020-04-30T17:53:31.3207452+01:00:Starting callback TCP Rpc server
+2020-04-30T17:53:31.3547853+01:00:Asynchronously starting background TCP Rpc Server on port 32768
+2020-04-30T17:53:31.3548575+01:00:Started callback TCP Rpc server on port 32768
+2020-04-30T17:53:31.3548669+01:00:Starting logger TCP Rpc server
+2020-04-30T17:53:31.3618515+01:00:Asynchronously starting background TCP Rpc Server on port 32769
+2020-04-30T17:53:31.3620525+01:00:Started logger TCP Rpc server on port 32769
+2020-04-30T17:53:31.4978400+01:00:Executing test executor at 'C:\Program Files\dotnet\dotnet.exe' 'exec "C:\Users\Lanka\source\repos\PracticeSpectFlow1\PracticeSpectFlow1\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_1.dll" --remoteRunnerPid 17268 --uniqueId "2020-04-30T175324" --outputFolder "C:\Users\Lanka\source\repos\PracticeSpectFlow1\TestResults" --callbackPort 32768 --loggerPort 32769' in 'C:\Users\Lanka\source\repos\PracticeSpectFlow1\PracticeSpectFlow1\bin\Debug\netcoreapp3.1'
+2020-04-30T17:53:31.5173243+01:00:Executor with PID 16928 has been started successfully.
+2020-04-30T17:53:31.5232798+01:00:Out of Process Executor 16928 started
+2020-04-30T17:53:31.5233093+01:00:Waiting for endpoint
+2020-04-30T17:53:32.1093166+01:00:Assembly resolving Microsoft.VisualStudio.Threading, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2020-04-30T17:53:32.1093499+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' from .deps.json file
+2020-04-30T17:53:32.1093566+01:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' from .deps.json
+2020-04-30T17:53:32.1093631+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\Lanka\source\repos\PracticeSpectFlow1\PracticeSpectFlow1\bin\Debug\netcoreapp3.1'
+2020-04-30T17:53:32.1093664+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\Lanka\source\repos\PracticeSpectFlow1\PracticeSpectFlow1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2020-04-30T17:53:32.1094636+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\Lanka\source\repos\PracticeSpectFlow1\PracticeSpectFlow1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.exe'
+2020-04-30T17:53:32.1095531+01:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\Lanka\source\repos\PracticeSpectFlow1\PracticeSpectFlow1\bin\Debug\netcoreapp3.1'
+2020-04-30T17:53:32.1112052+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.1'
+2020-04-30T17:53:32.1145560+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.1\Microsoft.VisualStudio.Threading.dll'
+2020-04-30T17:53:32.1147191+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.1\Microsoft.VisualStudio.Threading.exe'
+2020-04-30T17:53:32.1148124+01:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.1'
+2020-04-30T17:53:32.1152170+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.1'
+2020-04-30T17:53:32.1152394+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.1\Microsoft.VisualStudio.Threading.dll'
+2020-04-30T17:53:32.1153325+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.1\Microsoft.VisualStudio.Threading.exe'
+2020-04-30T17:53:32.1154201+01:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.1'
+2020-04-30T17:53:32.1158019+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.1'
+2020-04-30T17:53:32.1158203+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.1\Microsoft.VisualStudio.Threading.dll'
+2020-04-30T17:53:32.1159079+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.1\Microsoft.VisualStudio.Threading.exe'
+2020-04-30T17:53:32.1159843+01:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.1'
+2020-04-30T17:53:32.8146775+01:00:Remote executor port received: 32770
+2020-04-30T17:53:32.8156421+01:00:Creating executor TCP client on port 32770
+2020-04-30T17:53:32.8166998+01:00:Created executor TCP client on port 32770
+2020-04-30T17:53:32.8167173+01:00:Connecting to remote executor TCP server
+2020-04-30T17:53:32.8188204+01:00:Connected remote executor TCP server
+2020-04-30T17:53:32.8192553+01:00:trying to connect to Out of Process Executor the 1 attempt
+2020-04-30T17:53:32.8192777+01:00:Connection to Out of Process Executor established in the 1 attempt
+2020-04-30T17:53:33.0702934+01:00:2020-04-30T17:53:33.0650993+01:00:OutOfProcessTestAssemblyExecutor: initialized for C:\Users\Lanka\source\repos\PracticeSpectFlow1\PracticeSpectFlow1\bin\Debug\netcoreapp3.1\PracticeSpectFlow1.dll on test thread #0
+2020-04-30T17:53:33.0831088+01:00:Endpoint 16928 started
+2020-04-30T17:53:33.1121086+01:00:2020-04-30T17:53:33.1112841+01:00:OutOfProcessTestAssemblyExecutor: running tests...
+2020-04-30T17:53:33.3284267+01:00:2020-04-30T17:53:33.3244281+01:00:Thread#0:T:2020-04-30T17:53:33.3226312+01:00:Assembly resolving TechTalk.SpecFlow, Version=3.1.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2020-04-30T17:53:33.3386170+01:00:2020-04-30T17:53:33.3360859+01:00:Thread#0:T:2020-04-30T17:53:33.3359286+01:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecFlow' from .deps.json file
+2020-04-30T17:53:33.3560823+01:00:2020-04-30T17:53:33.3452258+01:00:Thread#0:T:2020-04-30T17:53:33.3450935+01:00:[AssemblyCache] Resolved 'TechTalk.SpecFlow' to 'C:\Users\Lanka\.nuget\packages\specflow\3.1.97\lib\netstandard2.0\TechTalk.SpecFlow.dll'
+2020-04-30T17:53:33.5481011+01:00:2020-04-30T17:53:33.5404294+01:00:Thread#0:T:-> Loading plugin C:\Users\Lanka\source\repos\PracticeSpectFlow1\PracticeSpectFlow1\bin\Debug\netcoreapp3.1\SpecRun.Runtime.SpecFlowPlugin.dll
+2020-04-30T17:53:33.5609944+01:00:2020-04-30T17:53:33.5596728+01:00:Thread#0:T:2020-04-30T17:53:33.5595223+01:00:Assembly resolving TechTalk.SpecFlow, Version=3.1.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2020-04-30T17:53:33.5684826+01:00:2020-04-30T17:53:33.5679460+01:00:Thread#0:T:-> Using default config
+2020-04-30T17:53:33.5900387+01:00:2020-04-30T17:53:33.5892136+01:00:Thread#0:T:2020-04-30T17:53:33.5890731+01:00:Assembly resolving Cucumber.Messages, Version=6.0.1.0, Culture=neutral, PublicKeyToken=b10c5988214f940c
+2020-04-30T17:53:33.5925341+01:00:2020-04-30T17:53:33.5909891+01:00:Thread#0:T:2020-04-30T17:53:33.5906606+01:00:[AssemblyCache] Trying to resolve 'Cucumber.Messages' from .deps.json file
+2020-04-30T17:53:33.5957493+01:00:2020-04-30T17:53:33.5947136+01:00:Thread#0:T:2020-04-30T17:53:33.5941614+01:00:[AssemblyCache] Resolved 'Cucumber.Messages' to 'C:\Users\Lanka\.nuget\packages\cucumber.messages\6.0.1\lib\netstandard2.0\Cucumber.Messages.dll'
+2020-04-30T17:53:33.5985271+01:00:2020-04-30T17:53:33.5975705+01:00:Thread#0:T:2020-04-30T17:53:33.5974284+01:00:Assembly resolving Google.Protobuf, Version=3.7.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604
+2020-04-30T17:53:33.6013206+01:00:2020-04-30T17:53:33.6004803+01:00:Thread#0:T:2020-04-30T17:53:33.6002402+01:00:[AssemblyCache] Trying to resolve 'Google.Protobuf' from .deps.json file
+2020-04-30T17:53:33.6035786+01:00:2020-04-30T17:53:33.6027999+01:00:Thread#0:T:2020-04-30T17:53:33.6025258+01:00:[AssemblyCache] Resolved 'Google.Protobuf' to 'C:\Users\Lanka\.nuget\packages\google.protobuf\3.7.0\lib\netstandard1.0\Google.Protobuf.dll'
+2020-04-30T17:53:33.6271407+01:00:2020-04-30T17:53:33.6264858+01:00:Thread#0:T:2020-04-30T17:53:33.6241216+01:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.ObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2020-04-30T17:53:33.6288483+01:00:2020-04-30T17:53:33.6281667+01:00:Thread#0:T:2020-04-30T17:53:33.6279711+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.ObjectModel' from .deps.json file
+2020-04-30T17:53:33.6322619+01:00:2020-04-30T17:53:33.6313095+01:00:Thread#0:T:2020-04-30T17:53:33.6310991+01:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.TestPlatform.ObjectModel' to 'C:\Users\Lanka\.nuget\packages\microsoft.testplatform.objectmodel\16.2.0\lib\netstandard1.5\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll'
+2020-04-30T17:53:33.7132966+01:00:2020-04-30T17:53:33.7127764+01:00:Thread#0:T:2020-04-30T17:53:33.7126212+01:00:Assembly resolving Utf8Json, Version=1.3.7.0, Culture=neutral, PublicKeyToken=8a73d3ba7e392e27
+2020-04-30T17:53:33.7144545+01:00:2020-04-30T17:53:33.7139990+01:00:Thread#0:T:2020-04-30T17:53:33.7138765+01:00:[AssemblyCache] Trying to resolve 'Utf8Json' from .deps.json file
+2020-04-30T17:53:33.7158197+01:00:2020-04-30T17:53:33.7152899+01:00:Thread#0:T:2020-04-30T17:53:33.7151802+01:00:[AssemblyCache] Resolved 'Utf8Json' to 'C:\Users\Lanka\.nuget\packages\utf8json\1.3.7\lib\netstandard2.0\Utf8Json.dll'
+2020-04-30T17:53:34.0438460+01:00:Thread#0: Test #4/0 is started on thread #0
+2020-04-30T17:53:34.0944723+01:00:2020-04-30T17:53:34.0933377+01:00:Thread#0:T:Before Scenario Mesg
+2020-04-30T17:53:34.7975809+01:00:2020-04-30T17:53:34.1047454+01:00:Thread#0:B:Given I have entered username as "abc"
+2020-04-30T17:53:34.8486426+01:00:2020-04-30T17:53:34.8456678+01:00:Thread#0:T:UserName
+2020-04-30T17:53:34.8708495+01:00:2020-04-30T17:53:34.8693947+01:00:Thread#0:T:done: StudentManagementSystemSteps.GivenIHaveEnteredUsernameAs("abc") (0.0s)
+2020-04-30T17:53:34.8774365+01:00:2020-04-30T17:53:34.8759143+01:00:Thread#0:B:And I have entered password as "abc"
+2020-04-30T17:53:34.8838929+01:00:2020-04-30T17:53:34.8826186+01:00:Thread#0:T:Password
+2020-04-30T17:53:34.8866025+01:00:2020-04-30T17:53:34.8853526+01:00:Thread#0:T:done: StudentManagementSystemSteps.GivenIHaveEnteredPasswordAs("abc") (0.0s)
+2020-04-30T17:53:34.8906198+01:00:2020-04-30T17:53:34.8894265+01:00:Thread#0:B:When I press submit button
+2020-04-30T17:53:34.8956816+01:00:2020-04-30T17:53:34.8941683+01:00:Thread#0:T:Submitted
+2020-04-30T17:53:34.8986982+01:00:2020-04-30T17:53:34.8971568+01:00:Thread#0:T:done: StudentManagementSystemSteps.WhenIPressSubmitButton() (0.0s)
+2020-04-30T17:53:34.9031525+01:00:2020-04-30T17:53:34.9015974+01:00:Thread#0:B:Then Im unable to login successfully
+2020-04-30T17:53:34.9076529+01:00:2020-04-30T17:53:34.9064131+01:00:Thread#0:T:Login Unsuccessfull
+2020-04-30T17:53:34.9108834+01:00:2020-04-30T17:53:34.9093298+01:00:Thread#0:T:done: StudentManagementSystemSteps.ThenImUnableToLoginSuccessfully() (0.0s)
+2020-04-30T17:53:34.9574237+01:00:Thread#0:Scheduler: get next test for thread 0
+2020-04-30T17:53:34.9575686+01:00:Thread#:Scheduler: testitem #5 from normal test queue 
+2020-04-30T17:53:34.9575873+01:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2020-04-30T17:53:34.9577488+01:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2020-04-30T17:53:34.9577667+01:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2020-04-30T17:53:34.9577738+01:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2020-04-30T17:53:34.9577816+01:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2020-04-30T17:53:34.9578578+01:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2020-04-30T17:53:34.9580212+01:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-04-30T17:53:34.9701579+01:00:2020-04-30T17:53:34.9687200+01:00:Thread#0:T:After Scenario Mesg
+2020-04-30T17:53:35.1006193+01:00:Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 1.0551126 seconds
+2020-04-30T17:53:35.1039452+01:00:Thread#0: Test #5/0 is started on thread #0
+2020-04-30T17:53:35.1069782+01:00:2020-04-30T17:53:35.1064370+01:00:Thread#0:T:Before Scenario Mesg
+2020-04-30T17:53:35.1079321+01:00:2020-04-30T17:53:35.1074638+01:00:Thread#0:B:Given I have entered username as "admin"
+2020-04-30T17:53:35.1089838+01:00:2020-04-30T17:53:35.1084978+01:00:Thread#0:T:UserName
+2020-04-30T17:53:35.1100626+01:00:2020-04-30T17:53:35.1094515+01:00:Thread#0:T:done: StudentManagementSystemSteps.GivenIHaveEnteredUsernameAs("admin") (0.0s)
+2020-04-30T17:53:35.1115520+01:00:2020-04-30T17:53:35.1108185+01:00:Thread#0:B:And I have entered password as "admin"
+2020-04-30T17:53:35.1127580+01:00:2020-04-30T17:53:35.1122480+01:00:Thread#0:T:Password
+2020-04-30T17:53:35.1136208+01:00:2020-04-30T17:53:35.1132148+01:00:Thread#0:T:done: StudentManagementSystemSteps.GivenIHaveEnteredPasswordAs("admin") (0.0s)
+2020-04-30T17:53:35.1145117+01:00:2020-04-30T17:53:35.1140904+01:00:Thread#0:B:When I press submit button
+2020-04-30T17:53:35.1153894+01:00:2020-04-30T17:53:35.1149707+01:00:Thread#0:T:Submitted
+2020-04-30T17:53:35.1161852+01:00:2020-04-30T17:53:35.1157928+01:00:Thread#0:T:done: StudentManagementSystemSteps.WhenIPressSubmitButton() (0.0s)
+2020-04-30T17:53:35.1170181+01:00:2020-04-30T17:53:35.1166207+01:00:Thread#0:B:Then I Can able to login successfully
+2020-04-30T17:53:35.1187685+01:00:2020-04-30T17:53:35.1181173+01:00:Thread#0:T:Login Successfully
+2020-04-30T17:53:35.1196654+01:00:2020-04-30T17:53:35.1192500+01:00:Thread#0:T:done: StudentManagementSystemSteps.ThenICanAbleToLoginSuccessfully() (0.0s)
+2020-04-30T17:53:35.1216396+01:00:Thread#0:Scheduler: get next test for thread 0
+2020-04-30T17:53:35.1216747+01:00:Thread#:Scheduler: at the end of normal test queue
+2020-04-30T17:53:35.1216795+01:00:Thread#0:Scheduler: enumerator for thread is at end
+2020-04-30T17:53:35.1216827+01:00:Thread#0:Scheduler: No more tests for thread
+2020-04-30T17:53:35.1231249+01:00:2020-04-30T17:53:35.1226605+01:00:Thread#0:T:After Scenario Mesg
+2020-04-30T17:53:35.1364736+01:00:Thread#0: Test #5/0 is finished on thread #0 as Succeeded within 0.032454 seconds
+2020-04-30T17:53:35.1476047+01:00:2020-04-30T17:53:35.1470946+01:00:Got Deinitialize Signal
+2020-04-30T17:53:35.1549969+01:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2020-04-30T17:53:35.1549968+01:00:RPC Client disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2020-04-30T17:53:35.1582836+01:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2020-04-30T17:53:35.1622760+01:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=en-US, PublicKeyToken=b03f5f7f11d50a3a
+2020-04-30T17:53:35.1623149+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' from .deps.json file
+2020-04-30T17:53:35.1623314+01:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' from .deps.json
+2020-04-30T17:53:35.1623414+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\Lanka\source\repos\PracticeSpectFlow1\PracticeSpectFlow1\bin\Debug\netcoreapp3.1'
+2020-04-30T17:53:35.1623493+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\Lanka\source\repos\PracticeSpectFlow1\PracticeSpectFlow1\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2020-04-30T17:53:35.1624565+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\Lanka\source\repos\PracticeSpectFlow1\PracticeSpectFlow1\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2020-04-30T17:53:35.1625472+01:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\Lanka\source\repos\PracticeSpectFlow1\PracticeSpectFlow1\bin\Debug\netcoreapp3.1'
+2020-04-30T17:53:35.1644438+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.1'
+2020-04-30T17:53:35.1644694+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.1\System.Diagnostics.Process.resources.dll'
+2020-04-30T17:53:35.1645826+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.1\System.Diagnostics.Process.resources.exe'
+2020-04-30T17:53:35.1646646+01:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.1'
+2020-04-30T17:53:35.1650459+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.1'
+2020-04-30T17:53:35.1650604+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.1\System.Diagnostics.Process.resources.dll'
+2020-04-30T17:53:35.1651547+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.1\System.Diagnostics.Process.resources.exe'
+2020-04-30T17:53:35.1652379+01:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.1'
+2020-04-30T17:53:35.1655889+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.1'
+2020-04-30T17:53:35.1656024+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.1\System.Diagnostics.Process.resources.dll'
+2020-04-30T17:53:35.1656893+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.1\System.Diagnostics.Process.resources.exe'
+2020-04-30T17:53:35.1657685+01:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.1'
+2020-04-30T17:53:35.1670950+01:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=en, PublicKeyToken=b03f5f7f11d50a3a
+2020-04-30T17:53:35.1791829+01:00:Thread#-1:Scheduler: get next test for thread -1
+2020-04-30T17:53:35.1792072+01:00:Thread#:Scheduler: at the end of normal test queue
+2020-04-30T17:53:35.1792178+01:00:Thread#-1:Scheduler: enumerator for thread is at end
+2020-04-30T17:53:35.1820077+01:00;Thread#12;Info;test run finished
+2020-04-30T17:53:35.1823108+01:00;Thread#12;Info;publishing test results
+2020-04-30T17:53:35.1826953+01:00;Thread#12;Info;Not publishing results.
+2020-04-30T17:53:35.1830650+01:00;Thread#12;Info;test results published
+2020-04-30T17:53:35.1831888+01:00;Thread#12;Info;generating reports
+2020-04-30T17:53:35.3725303+01:00;Thread#12;Info;Starting external report generation process
+2020-04-30T17:53:37.7821393+01:00;Thread#12;Info;Successfully generated reports.
+2020-04-30T17:53:37.7862338+01:00;Thread#12;Info;Successfully generated reports
+2020-04-30T17:53:37.7972994+01:00:Total: 2
+2020-04-30T17:53:37.7997963+01:00:Succeeded: 2
+2020-04-30T17:53:37.8002884+01:00:Ignored: 0
+2020-04-30T17:53:37.8007278+01:00:Pending: 0
+2020-04-30T17:53:37.8007420+01:00:Skipped: 0
+2020-04-30T17:53:37.8011792+01:00:Failed: 0
+2020-04-30T17:53:37.8097205+01:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2020-04-30T17:53:37.8100642+01:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\Lanka\source\repos\PracticeSpectFlow1\TestResults\Unnamed project__2020-04-30T175324.html'
+========== End of log file ==========

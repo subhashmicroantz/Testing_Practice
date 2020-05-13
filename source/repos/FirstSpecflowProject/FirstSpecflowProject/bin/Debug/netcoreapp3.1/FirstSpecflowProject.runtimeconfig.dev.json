@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Lanka\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Lanka\\.nuget\\packages"
+    ]
+  }
+}

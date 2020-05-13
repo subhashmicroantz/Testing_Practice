@@ -1,0 +1,45 @@
+﻿2020-03-22T11:07:44.1628519+00:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2020-03-22T11:07:44.1632394+00:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.1.53 in Framework netcore31 in x64 mode execution started
+2020-03-22T11:07:44.1632526+00:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\Lanka\source\repos\FirstSpecflowProject\FirstSpecflowProject\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2020-03-22T11:07:44.2248655+00:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\Lanka\source\repos\FirstSpecflowProject\FirstSpecflowProject\bin\Debug\netcoreapp3.1\FirstSpecflowProject.dll
+2020-03-22T11:07:44.2252693+00:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\Lanka\source\repos\FirstSpecflowProject\TestResults" (default)
+2020-03-22T11:07:44.2255655+00:00;VSTestExecutionThread;Info;Profile: 
+2020-03-22T11:07:44.3049621+00:00;VSTestExecutionThread;Info;Log file path: C:\Users\Lanka\source\repos\FirstSpecflowProject\TestResults\Unnamed project__2020-03-22T110744.log
+2020-03-22T11:07:44.3194377+00:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2020-03-22T11:07:44.3328032+00:00;Thread#13;Info;Checking license
+2020-03-22T11:07:44.3714940+00:00;Thread#13;Info;Evaluation mode: test execution starts in 12 seconds... (this delay is removed in the registered version)
+2020-03-22T11:07:56.3721532+00:00;Thread#13;Info;Evaluation delay finished.
+2020-03-22T11:07:56.3861499+00:00;Thread#13;Info;License check completed
+2020-03-22T11:07:56.3873025+00:00;Thread#13;Info;starting test run
+2020-03-22T11:07:56.4005977+00:00;Thread#13;Info;Discovering target: Default
+2020-03-22T11:07:56.4009354+00:00;Thread#13;Info;Discovering tests from assembly: C:\Users\Lanka\source\repos\FirstSpecflowProject\FirstSpecflowProject\bin\Debug\netcoreapp3.1\FirstSpecflowProject.dll
+2020-03-22T11:07:56.6389283+00:00;Thread#13;Info;Discovered tests from assembly: C:\Users\Lanka\source\repos\FirstSpecflowProject\FirstSpecflowProject\bin\Debug\netcoreapp3.1\FirstSpecflowProject.dll
+2020-03-22T11:07:56.6416634+00:00:Test Suite Dump
+2020-03-22T11:07:56.6470030+00:00:#0: Unnamed project/ - 
+2020-03-22T11:07:56.6470575+00:00:#1: Default - 
+2020-03-22T11:07:56.6470633+00:00:#2: FirstSpecflowProject - 
+2020-03-22T11:07:56.6471842+00:00:End: Test Suite Dump
+2020-03-22T11:07:56.6931818+00:00:Thread#0:Scheduler: get next test for thread 0
+2020-03-22T11:07:56.7012933+00:00:Thread#:Scheduler: at the end of normal test queue
+2020-03-22T11:07:56.7013541+00:00:Thread#0:Scheduler: enumerator for thread is at end
+2020-03-22T11:07:56.7017249+00:00:Thread#0:Scheduler: No more tests for thread
+2020-03-22T11:07:56.7216672+00:00:Thread#-1:Scheduler: get next test for thread -1
+2020-03-22T11:07:56.7217179+00:00:Thread#:Scheduler: at the end of normal test queue
+2020-03-22T11:07:56.7217321+00:00:Thread#-1:Scheduler: enumerator for thread is at end
+2020-03-22T11:07:56.7244758+00:00;Thread#13;Info;test run finished
+2020-03-22T11:07:56.7247903+00:00;Thread#13;Info;publishing test results
+2020-03-22T11:07:56.7253305+00:00;Thread#13;Info;Not publishing results.
+2020-03-22T11:07:56.7256177+00:00;Thread#13;Info;test results published
+2020-03-22T11:07:56.7259184+00:00;Thread#13;Info;generating reports
+2020-03-22T11:07:56.9288562+00:00;Thread#13;Info;Starting external report generation process
+2020-03-22T11:07:59.3269939+00:00;Thread#13;Error;Could not generate test run result reports. An error occurred in the generator.
+2020-03-22T11:07:59.3282214+00:00;Thread#13;Error;External program returned exit code '-2'
+2020-03-22T11:07:59.3302383+00:00;Thread#13;Info;Failed generating reports
+2020-03-22T11:07:59.3530757+00:00:Total: 0
+2020-03-22T11:07:59.3561647+00:00:Succeeded: 0
+2020-03-22T11:07:59.3566762+00:00:Ignored: 0
+2020-03-22T11:07:59.3571181+00:00:Pending: 0
+2020-03-22T11:07:59.3580809+00:00:Skipped: 0
+2020-03-22T11:07:59.3585589+00:00:Failed: 0
+2020-03-22T11:07:59.3680553+00:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+========== End of log file ==========

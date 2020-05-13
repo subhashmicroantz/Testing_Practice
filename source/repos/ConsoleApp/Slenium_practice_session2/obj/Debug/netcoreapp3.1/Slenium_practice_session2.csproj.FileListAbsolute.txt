@@ -1,0 +1,15 @@
+C:\Users\Lanka\source\repos\ConsoleApp\Slenium_practice_session2\bin\Debug\netcoreapp3.1\Slenium_practice_session2.exe
+C:\Users\Lanka\source\repos\ConsoleApp\Slenium_practice_session2\bin\Debug\netcoreapp3.1\Slenium_practice_session2.deps.json
+C:\Users\Lanka\source\repos\ConsoleApp\Slenium_practice_session2\bin\Debug\netcoreapp3.1\Slenium_practice_session2.runtimeconfig.json
+C:\Users\Lanka\source\repos\ConsoleApp\Slenium_practice_session2\bin\Debug\netcoreapp3.1\Slenium_practice_session2.runtimeconfig.dev.json
+C:\Users\Lanka\source\repos\ConsoleApp\Slenium_practice_session2\bin\Debug\netcoreapp3.1\Slenium_practice_session2.dll
+C:\Users\Lanka\source\repos\ConsoleApp\Slenium_practice_session2\bin\Debug\netcoreapp3.1\Slenium_practice_session2.pdb
+C:\Users\Lanka\source\repos\ConsoleApp\Slenium_practice_session2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Lanka\source\repos\ConsoleApp\Slenium_practice_session2\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+C:\Users\Lanka\source\repos\ConsoleApp\Slenium_practice_session2\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\Lanka\source\repos\ConsoleApp\Slenium_practice_session2\obj\Debug\netcoreapp3.1\Slenium_practice_session2.AssemblyInfoInputs.cache
+C:\Users\Lanka\source\repos\ConsoleApp\Slenium_practice_session2\obj\Debug\netcoreapp3.1\Slenium_practice_session2.AssemblyInfo.cs
+C:\Users\Lanka\source\repos\ConsoleApp\Slenium_practice_session2\obj\Debug\netcoreapp3.1\Slenium_practice_session2.csproj.CopyComplete
+C:\Users\Lanka\source\repos\ConsoleApp\Slenium_practice_session2\obj\Debug\netcoreapp3.1\Slenium_practice_session2.dll
+C:\Users\Lanka\source\repos\ConsoleApp\Slenium_practice_session2\obj\Debug\netcoreapp3.1\Slenium_practice_session2.pdb
+C:\Users\Lanka\source\repos\ConsoleApp\Slenium_practice_session2\obj\Debug\netcoreapp3.1\Slenium_practice_session2.csprojAssemblyReference.cache

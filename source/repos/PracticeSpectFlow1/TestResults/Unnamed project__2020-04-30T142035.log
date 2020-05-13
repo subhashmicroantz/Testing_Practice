@@ -1,0 +1,17 @@
+﻿2020-04-30T14:20:35.6380848+01:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2020-04-30T14:20:35.6384058+01:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.2.22 in Framework netcore31 in x64 mode execution started
+2020-04-30T14:20:35.6384132+01:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\Lanka\source\repos\PracticeSpectFlow1\PracticeSpectFlow1\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2020-04-30T14:20:35.6876012+01:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\Lanka\source\repos\PracticeSpectFlow1\PracticeSpectFlow1\bin\Debug\netcoreapp3.1\PracticeSpectFlow1.dll
+2020-04-30T14:20:35.6888613+01:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\Lanka\source\repos\PracticeSpectFlow1\TestResults" (default)
+2020-04-30T14:20:35.6895638+01:00;VSTestExecutionThread;Info;Profile: 
+2020-04-30T14:20:35.7755557+01:00;VSTestExecutionThread;Info;Log file path: C:\Users\Lanka\source\repos\PracticeSpectFlow1\TestResults\Unnamed project__2020-04-30T142035.log
+2020-04-30T14:20:35.7836632+01:00;Thread#12;Info;Checking activation
+2020-04-30T14:20:35.8290103+01:00;Thread#12;Error;No tests executed (activation needed)
+2020-04-30T14:20:35.8469570+01:00:Total: 0
+2020-04-30T14:20:35.8497465+01:00:Succeeded: 0
+2020-04-30T14:20:35.8501269+01:00:Ignored: 0
+2020-04-30T14:20:35.8504882+01:00:Pending: 0
+2020-04-30T14:20:35.8512997+01:00:Skipped: 0
+2020-04-30T14:20:35.8516640+01:00:Failed: 0
+2020-04-30T14:20:35.8599529+01:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+========== End of log file ==========

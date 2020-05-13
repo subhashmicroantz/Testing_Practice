@@ -1,0 +1,8 @@
+C:\Users\Lanka\source\repos\New project\New project\bin\Debug\netcoreapp3.1\New project.exe
+C:\Users\Lanka\source\repos\New project\New project\obj\Debug\netcoreapp3.1\New project.csprojAssemblyReference.cache
+C:\Users\Lanka\source\repos\New project\New project\obj\Debug\netcoreapp3.1\New project.AssemblyInfoInputs.cache
+C:\Users\Lanka\source\repos\New project\New project\obj\Debug\netcoreapp3.1\New project.AssemblyInfo.cs
+C:\Users\Lanka\source\repos\New project\New project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Lanka\source\repos\New project\New project\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\Lanka\source\repos\New project\New project\obj\Debug\netcoreapp3.1\New project.csproj.CopyComplete
+C:\Users\Lanka\source\repos\New project\New project\bin\Debug\netcoreapp3.1\WebDriver.Support.dll

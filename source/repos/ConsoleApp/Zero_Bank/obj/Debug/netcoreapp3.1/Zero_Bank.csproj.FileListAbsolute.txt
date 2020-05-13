@@ -1,0 +1,15 @@
+C:\Users\Lanka\source\repos\ConsoleApp\Zero_Bank\bin\Debug\netcoreapp3.1\Zero_Bank.exe
+C:\Users\Lanka\source\repos\ConsoleApp\Zero_Bank\bin\Debug\netcoreapp3.1\Zero_Bank.deps.json
+C:\Users\Lanka\source\repos\ConsoleApp\Zero_Bank\bin\Debug\netcoreapp3.1\Zero_Bank.runtimeconfig.json
+C:\Users\Lanka\source\repos\ConsoleApp\Zero_Bank\bin\Debug\netcoreapp3.1\Zero_Bank.runtimeconfig.dev.json
+C:\Users\Lanka\source\repos\ConsoleApp\Zero_Bank\bin\Debug\netcoreapp3.1\Zero_Bank.dll
+C:\Users\Lanka\source\repos\ConsoleApp\Zero_Bank\bin\Debug\netcoreapp3.1\Zero_Bank.pdb
+C:\Users\Lanka\source\repos\ConsoleApp\Zero_Bank\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Lanka\source\repos\ConsoleApp\Zero_Bank\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+C:\Users\Lanka\source\repos\ConsoleApp\Zero_Bank\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\Lanka\source\repos\ConsoleApp\Zero_Bank\obj\Debug\netcoreapp3.1\Zero_Bank.AssemblyInfoInputs.cache
+C:\Users\Lanka\source\repos\ConsoleApp\Zero_Bank\obj\Debug\netcoreapp3.1\Zero_Bank.AssemblyInfo.cs
+C:\Users\Lanka\source\repos\ConsoleApp\Zero_Bank\obj\Debug\netcoreapp3.1\Zero_Bank.csproj.CopyComplete
+C:\Users\Lanka\source\repos\ConsoleApp\Zero_Bank\obj\Debug\netcoreapp3.1\Zero_Bank.dll
+C:\Users\Lanka\source\repos\ConsoleApp\Zero_Bank\obj\Debug\netcoreapp3.1\Zero_Bank.pdb
+C:\Users\Lanka\source\repos\ConsoleApp\Zero_Bank\obj\Debug\netcoreapp3.1\Zero_Bank.csprojAssemblyReference.cache

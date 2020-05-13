@@ -1,0 +1,3 @@
+C:\Users\Lanka\source\repos\ConsoleApp\CSharpSample_Practice\obj\Debug\netcoreapp3.1\CSharpSample_Practice.csprojAssemblyReference.cache
+C:\Users\Lanka\source\repos\ConsoleApp\CSharpSample_Practice\obj\Debug\netcoreapp3.1\CSharpSample_Practice.AssemblyInfoInputs.cache
+C:\Users\Lanka\source\repos\ConsoleApp\CSharpSample_Practice\obj\Debug\netcoreapp3.1\CSharpSample_Practice.AssemblyInfo.cs

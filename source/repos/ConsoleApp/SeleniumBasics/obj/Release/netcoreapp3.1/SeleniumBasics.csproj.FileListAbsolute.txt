@@ -1,0 +1,15 @@
+C:\Users\Lanka\source\repos\ConsoleApp\SeleniumBasics\bin\Release\netcoreapp3.1\SeleniumBasics.exe
+C:\Users\Lanka\source\repos\ConsoleApp\SeleniumBasics\bin\Release\netcoreapp3.1\SeleniumBasics.deps.json
+C:\Users\Lanka\source\repos\ConsoleApp\SeleniumBasics\bin\Release\netcoreapp3.1\SeleniumBasics.runtimeconfig.json
+C:\Users\Lanka\source\repos\ConsoleApp\SeleniumBasics\bin\Release\netcoreapp3.1\SeleniumBasics.runtimeconfig.dev.json
+C:\Users\Lanka\source\repos\ConsoleApp\SeleniumBasics\bin\Release\netcoreapp3.1\SeleniumBasics.dll
+C:\Users\Lanka\source\repos\ConsoleApp\SeleniumBasics\bin\Release\netcoreapp3.1\SeleniumBasics.pdb
+C:\Users\Lanka\source\repos\ConsoleApp\SeleniumBasics\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Lanka\source\repos\ConsoleApp\SeleniumBasics\bin\Release\netcoreapp3.1\WebDriver.Support.dll
+C:\Users\Lanka\source\repos\ConsoleApp\SeleniumBasics\bin\Release\netcoreapp3.1\WebDriver.dll
+C:\Users\Lanka\source\repos\ConsoleApp\SeleniumBasics\obj\Release\netcoreapp3.1\SeleniumBasics.csprojAssemblyReference.cache
+C:\Users\Lanka\source\repos\ConsoleApp\SeleniumBasics\obj\Release\netcoreapp3.1\SeleniumBasics.AssemblyInfoInputs.cache
+C:\Users\Lanka\source\repos\ConsoleApp\SeleniumBasics\obj\Release\netcoreapp3.1\SeleniumBasics.AssemblyInfo.cs
+C:\Users\Lanka\source\repos\ConsoleApp\SeleniumBasics\obj\Release\netcoreapp3.1\SeleniumBasics.csproj.CopyComplete
+C:\Users\Lanka\source\repos\ConsoleApp\SeleniumBasics\obj\Release\netcoreapp3.1\SeleniumBasics.dll
+C:\Users\Lanka\source\repos\ConsoleApp\SeleniumBasics\obj\Release\netcoreapp3.1\SeleniumBasics.pdb

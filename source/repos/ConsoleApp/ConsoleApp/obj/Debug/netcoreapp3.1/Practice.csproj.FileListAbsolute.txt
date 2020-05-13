@@ -1,0 +1,11 @@
+C:\Users\Lanka\source\repos\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\Practice.AssemblyInfoInputs.cache
+C:\Users\Lanka\source\repos\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\Practice.AssemblyInfo.cs
+C:\Users\Lanka\source\repos\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Practice.exe
+C:\Users\Lanka\source\repos\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Practice.deps.json
+C:\Users\Lanka\source\repos\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Practice.runtimeconfig.json
+C:\Users\Lanka\source\repos\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Practice.runtimeconfig.dev.json
+C:\Users\Lanka\source\repos\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Practice.dll
+C:\Users\Lanka\source\repos\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Practice.pdb
+C:\Users\Lanka\source\repos\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\Practice.dll
+C:\Users\Lanka\source\repos\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\Practice.pdb
+C:\Users\Lanka\source\repos\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\Practice.csprojAssemblyReference.cache

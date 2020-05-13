@@ -1,0 +1,10 @@
+﻿2020-03-22T11:10:22.3986198+00:00;Thread#1;Info;Reading test run result from Json file "C:\Users\Lanka\AppData\Local\Temp\tmp9A22.tmp".
+2020-03-22T11:10:22.4026211+00:00;Thread#1;Info;Successfully read test run result from Json file "C:\Users\Lanka\AppData\Local\Temp\tmp9A22.tmp"
+2020-03-22T11:10:22.4026211+00:00;Thread#1;Info;Deserializing test run result
+2020-03-22T11:10:23.4562822+00:00;Thread#1;Info;Successfully deserialized test run result
+2020-03-22T11:10:23.4562822+00:00;Thread#1;Info;Loading test run result
+2020-03-22T11:10:23.5212588+00:00;Thread#1;Info;Successfully loaded test run result
+2020-03-22T11:10:23.5362573+00:00;Thread#1;Info;creating 1 report(s)
+2020-03-22T11:10:23.5362573+00:00;Thread#1;Info;generate Report ReportTemplate.cshtml
+2020-03-22T11:10:24.6019128+00:00;Thread#1;Info;Finished generating reports.
+========== End of log file ==========

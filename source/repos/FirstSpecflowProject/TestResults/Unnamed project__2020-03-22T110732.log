@@ -1,0 +1,10 @@
+﻿2020-03-22T11:07:32.2664798+00:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2020-03-22T11:07:32.2667070+00:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.1.53 in Framework netcore31 in x64 mode execution started
+2020-03-22T11:07:32.2667119+00:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\Lanka\source\repos\FirstSpecflowProject\FirstSpecflowProject\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2020-03-22T11:07:32.3015235+00:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\Lanka\source\repos\FirstSpecflowProject\FirstSpecflowProject\bin\Debug\netcoreapp3.1\FirstSpecflowProject.dll
+2020-03-22T11:07:32.3018512+00:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\Lanka\source\repos\FirstSpecflowProject\TestResults" (default)
+2020-03-22T11:07:32.3021208+00:00;VSTestExecutionThread;Info;Profile: 
+2020-03-22T11:07:32.3386327+00:00;VSTestExecutionThread;Info;Log file path: C:\Users\Lanka\source\repos\FirstSpecflowProject\TestResults\Unnamed project__2020-03-22T110732.log
+2020-03-22T11:07:32.3455349+00:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2020-03-22T11:07:32.3522805+00:00;Thread#12;Info;Checking license
+2020-03-22T11:07:32.3734932+00:00;Thread#12;Info;Evaluation mode: test execution starts in 14 seconds... (this delay is removed in the registered version)

@@ -1,0 +1,11 @@
+C:\Users\Lanka\source\repos\ConsoleApp\Training_Project\bin\Debug\netcoreapp3.1\CSharp_Training_Project.exe
+C:\Users\Lanka\source\repos\ConsoleApp\Training_Project\bin\Debug\netcoreapp3.1\CSharp_Training_Project.deps.json
+C:\Users\Lanka\source\repos\ConsoleApp\Training_Project\bin\Debug\netcoreapp3.1\CSharp_Training_Project.runtimeconfig.json
+C:\Users\Lanka\source\repos\ConsoleApp\Training_Project\bin\Debug\netcoreapp3.1\CSharp_Training_Project.runtimeconfig.dev.json
+C:\Users\Lanka\source\repos\ConsoleApp\Training_Project\bin\Debug\netcoreapp3.1\CSharp_Training_Project.dll
+C:\Users\Lanka\source\repos\ConsoleApp\Training_Project\bin\Debug\netcoreapp3.1\CSharp_Training_Project.pdb
+C:\Users\Lanka\source\repos\ConsoleApp\Training_Project\obj\Debug\netcoreapp3.1\CSharp_Training_Project.AssemblyInfoInputs.cache
+C:\Users\Lanka\source\repos\ConsoleApp\Training_Project\obj\Debug\netcoreapp3.1\CSharp_Training_Project.AssemblyInfo.cs
+C:\Users\Lanka\source\repos\ConsoleApp\Training_Project\obj\Debug\netcoreapp3.1\CSharp_Training_Project.dll
+C:\Users\Lanka\source\repos\ConsoleApp\Training_Project\obj\Debug\netcoreapp3.1\CSharp_Training_Project.pdb
+C:\Users\Lanka\source\repos\ConsoleApp\Training_Project\obj\Debug\netcoreapp3.1\CSharp_Training_Project.csprojAssemblyReference.cache

@@ -1,0 +1,184 @@
+﻿2020-03-22T11:10:03.4573151+00:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2020-03-22T11:10:03.4578685+00:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.1.53 in Framework netcore31 in x64 mode execution started
+2020-03-22T11:10:03.4578847+00:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\Lanka\source\repos\FirstSpecflowProject\FirstSpecflowProject\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2020-03-22T11:10:03.5241779+00:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\Lanka\source\repos\FirstSpecflowProject\FirstSpecflowProject\bin\Debug\netcoreapp3.1\FirstSpecflowProject.dll
+2020-03-22T11:10:03.5261378+00:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\Lanka\source\repos\FirstSpecflowProject\TestResults" (default)
+2020-03-22T11:10:03.5264778+00:00;VSTestExecutionThread;Info;Profile: 
+2020-03-22T11:10:03.6100236+00:00;VSTestExecutionThread;Info;Log file path: C:\Users\Lanka\source\repos\FirstSpecflowProject\TestResults\Unnamed project__2020-03-22T111003.log
+2020-03-22T11:10:03.6237947+00:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2020-03-22T11:10:03.6325178+00:00;Thread#12;Info;Checking license
+2020-03-22T11:10:03.6630566+00:00;Thread#12;Info;Evaluation mode: test execution starts in 14 seconds... (this delay is removed in the registered version)
+2020-03-22T11:10:17.6643325+00:00;Thread#12;Info;Evaluation delay finished.
+2020-03-22T11:10:17.6775143+00:00;Thread#12;Info;License check completed
+2020-03-22T11:10:17.6781483+00:00;Thread#12;Info;starting test run
+2020-03-22T11:10:17.6890898+00:00;Thread#12;Info;Discovering target: Default
+2020-03-22T11:10:17.6896163+00:00;Thread#12;Info;Discovering tests from assembly: C:\Users\Lanka\source\repos\FirstSpecflowProject\FirstSpecflowProject\bin\Debug\netcoreapp3.1\FirstSpecflowProject.dll
+2020-03-22T11:10:17.8914479+00:00;Thread#12;Info;Discovered tests from assembly: C:\Users\Lanka\source\repos\FirstSpecflowProject\FirstSpecflowProject\bin\Debug\netcoreapp3.1\FirstSpecflowProject.dll
+2020-03-22T11:10:17.8949957+00:00:Test Suite Dump
+2020-03-22T11:10:17.8992221+00:00:#0: Unnamed project/ - 
+2020-03-22T11:10:17.8992619+00:00:#1: Default - 
+2020-03-22T11:10:17.8992715+00:00:#2: FirstSpecflowProject - 
+2020-03-22T11:10:17.8992823+00:00:#3: SpecFlowFeature - 
+2020-03-22T11:10:17.9011436+00:00:#4: Add two numbers - TestAssembly:FirstSpecflowProject/Feature:SpecFlowFeature/Scenario:Add+two+numbers
+2020-03-22T11:10:17.9013048+00:00:End: Test Suite Dump
+2020-03-22T11:10:17.9355474+00:00:Thread#0:Scheduler: get next test for thread 0
+2020-03-22T11:10:17.9436259+00:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2020-03-22T11:10:17.9439613+00:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2020-03-22T11:10:17.9498115+00:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2020-03-22T11:10:17.9498394+00:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2020-03-22T11:10:17.9498440+00:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2020-03-22T11:10:17.9498495+00:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2020-03-22T11:10:17.9512572+00:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2020-03-22T11:10:17.9538350+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-03-22T11:10:17.9620719+00:00:Thread #0: creating new test thread executor for FirstSpecflowProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2020-03-22T11:10:17.9665467+00:00:Thread #0: Creating test assembly executor for execution model OutProc
+2020-03-22T11:10:17.9668831+00:00:Thread #0: Creating test assembly executor for execution model OutProc
+2020-03-22T11:10:17.9820366+00:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2020-03-22T11:10:17.9855888+00:00:starting Out Of Process Executor
+2020-03-22T11:10:18.0001659+00:00:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2020-03-22T11:10:18.0069458+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' from .deps.json file
+2020-03-22T11:10:18.0069923+00:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' from .deps.json
+2020-03-22T11:10:18.0111114+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\Lanka\source\repos\FirstSpecflowProject\FirstSpecflowProject\bin\Debug\netcoreapp3.1'
+2020-03-22T11:10:18.0127091+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\Lanka\source\repos\FirstSpecflowProject\FirstSpecflowProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2020-03-22T11:10:18.0129094+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\Lanka\source\repos\FirstSpecflowProject\FirstSpecflowProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.exe'
+2020-03-22T11:10:18.0130157+00:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\Lanka\source\repos\FirstSpecflowProject\FirstSpecflowProject\bin\Debug\netcoreapp3.1'
+2020-03-22T11:10:18.0272439+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.1'
+2020-03-22T11:10:18.0272735+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.1\Microsoft.VisualStudio.Validation.dll'
+2020-03-22T11:10:18.0274807+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.1\Microsoft.VisualStudio.Validation.exe'
+2020-03-22T11:10:18.0276038+00:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.1'
+2020-03-22T11:10:18.0281877+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.1'
+2020-03-22T11:10:18.0282216+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.1\Microsoft.VisualStudio.Validation.dll'
+2020-03-22T11:10:18.0283444+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.1\Microsoft.VisualStudio.Validation.exe'
+2020-03-22T11:10:18.0284727+00:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.1'
+2020-03-22T11:10:18.0288709+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.1'
+2020-03-22T11:10:18.0289086+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.1\Microsoft.VisualStudio.Validation.dll'
+2020-03-22T11:10:18.0290030+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.1\Microsoft.VisualStudio.Validation.exe'
+2020-03-22T11:10:18.0290993+00:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.1'
+2020-03-22T11:10:18.0350058+00:00:Starting callback TCP Rpc server
+2020-03-22T11:10:18.0835997+00:00:Asynchronously starting background TCP Rpc Server on port 32768
+2020-03-22T11:10:18.0836808+00:00:Started callback TCP Rpc server on port 32768
+2020-03-22T11:10:18.0836921+00:00:Starting logger TCP Rpc server
+2020-03-22T11:10:18.0913808+00:00:Asynchronously starting background TCP Rpc Server on port 32769
+2020-03-22T11:10:18.0914609+00:00:Started logger TCP Rpc server on port 32769
+2020-03-22T11:10:18.3016424+00:00:Executing test executor at 'C:\Program Files\dotnet\dotnet.exe' 'exec "C:\Users\Lanka\source\repos\FirstSpecflowProject\FirstSpecflowProject\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_1.dll" --remoteRunnerPid 3304 --uniqueId "2020-03-22T111003" --outputFolder "C:\Users\Lanka\source\repos\FirstSpecflowProject\TestResults" --callbackPort 32768 --loggerPort 32769' in 'C:\Users\Lanka\source\repos\FirstSpecflowProject\FirstSpecflowProject\bin\Debug\netcoreapp3.1'
+2020-03-22T11:10:18.3320581+00:00:Executor with PID 7724 has been started successfully.
+2020-03-22T11:10:18.3410495+00:00:Out of Process Executor 7724 started
+2020-03-22T11:10:18.3410767+00:00:Waiting for endpoint
+2020-03-22T11:10:19.1722036+00:00:Assembly resolving Microsoft.VisualStudio.Threading, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2020-03-22T11:10:19.1722342+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' from .deps.json file
+2020-03-22T11:10:19.1722396+00:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' from .deps.json
+2020-03-22T11:10:19.1722453+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\Lanka\source\repos\FirstSpecflowProject\FirstSpecflowProject\bin\Debug\netcoreapp3.1'
+2020-03-22T11:10:19.1722483+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\Lanka\source\repos\FirstSpecflowProject\FirstSpecflowProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2020-03-22T11:10:19.1723641+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\Lanka\source\repos\FirstSpecflowProject\FirstSpecflowProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.exe'
+2020-03-22T11:10:19.1724492+00:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\Lanka\source\repos\FirstSpecflowProject\FirstSpecflowProject\bin\Debug\netcoreapp3.1'
+2020-03-22T11:10:19.1740490+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.1'
+2020-03-22T11:10:19.1740778+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.1\Microsoft.VisualStudio.Threading.dll'
+2020-03-22T11:10:19.1742315+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.1\Microsoft.VisualStudio.Threading.exe'
+2020-03-22T11:10:19.1743284+00:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.1'
+2020-03-22T11:10:19.1747974+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.1'
+2020-03-22T11:10:19.1751208+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.1\Microsoft.VisualStudio.Threading.dll'
+2020-03-22T11:10:19.1752697+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.1\Microsoft.VisualStudio.Threading.exe'
+2020-03-22T11:10:19.1753559+00:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.1'
+2020-03-22T11:10:19.1757582+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.1'
+2020-03-22T11:10:19.1757737+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.1\Microsoft.VisualStudio.Threading.dll'
+2020-03-22T11:10:19.1758660+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.1\Microsoft.VisualStudio.Threading.exe'
+2020-03-22T11:10:19.1759546+00:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.1'
+2020-03-22T11:10:19.6480270+00:00:Remote executor port received: 32770
+2020-03-22T11:10:19.6487024+00:00:Creating executor TCP client on port 32770
+2020-03-22T11:10:19.6493793+00:00:Created executor TCP client on port 32770
+2020-03-22T11:10:19.6493953+00:00:Connecting to remote executor TCP server
+2020-03-22T11:10:19.6520504+00:00:Connected remote executor TCP server
+2020-03-22T11:10:19.6524671+00:00:trying to connect to Out of Process Executor the 1 attempt
+2020-03-22T11:10:19.6524881+00:00:Connection to Out of Process Executor established in the 1 attempt
+2020-03-22T11:10:19.9048982+00:00:2020-03-22T11:10:19.9009413+00:00:OutOfProcessTestAssemblyExecutor: initialized for C:\Users\Lanka\source\repos\FirstSpecflowProject\FirstSpecflowProject\bin\Debug\netcoreapp3.1\FirstSpecflowProject.dll on test thread #0
+2020-03-22T11:10:19.9153344+00:00:Endpoint 7724 started
+2020-03-22T11:10:19.9475131+00:00:2020-03-22T11:10:19.9468103+00:00:OutOfProcessTestAssemblyExecutor: running tests...
+2020-03-22T11:10:20.1555625+00:00:2020-03-22T11:10:20.1550614+00:00:Assembly resolving TechTalk.SpecFlow, Version=3.1.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2020-03-22T11:10:20.1609714+00:00:2020-03-22T11:10:20.1604689+00:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecFlow' from .deps.json file
+2020-03-22T11:10:20.1651001+00:00:2020-03-22T11:10:20.1646223+00:00:[AssemblyCache] Resolved 'TechTalk.SpecFlow' to 'C:\Users\Lanka\.nuget\packages\specflow\3.1.89\lib\netstandard2.0\TechTalk.SpecFlow.dll'
+2020-03-22T11:10:20.3344412+00:00:2020-03-22T11:10:20.3339532+00:00:Thread#0:T:-> Loading plugin C:\Users\Lanka\source\repos\FirstSpecflowProject\FirstSpecflowProject\bin\Debug\netcoreapp3.1\SpecRun.Runtime.SpecFlowPlugin.dll
+2020-03-22T11:10:20.3448398+00:00:2020-03-22T11:10:20.3443179+00:00:Assembly resolving TechTalk.SpecFlow, Version=3.1.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2020-03-22T11:10:20.3526812+00:00:2020-03-22T11:10:20.3521442+00:00:Thread#0:T:-> Using default config
+2020-03-22T11:10:20.3706337+00:00:2020-03-22T11:10:20.3679322+00:00:Assembly resolving Cucumber.Messages, Version=6.0.1.0, Culture=neutral, PublicKeyToken=b10c5988214f940c
+2020-03-22T11:10:20.3739266+00:00:2020-03-22T11:10:20.3728994+00:00:[AssemblyCache] Trying to resolve 'Cucumber.Messages' from .deps.json file
+2020-03-22T11:10:20.3754073+00:00:2020-03-22T11:10:20.3749824+00:00:[AssemblyCache] Resolved 'Cucumber.Messages' to 'C:\Users\Lanka\.nuget\packages\cucumber.messages\6.0.1\lib\netstandard2.0\Cucumber.Messages.dll'
+2020-03-22T11:10:20.3774620+00:00:2020-03-22T11:10:20.3769057+00:00:Assembly resolving Google.Protobuf, Version=3.7.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604
+2020-03-22T11:10:20.3782923+00:00:2020-03-22T11:10:20.3778551+00:00:[AssemblyCache] Trying to resolve 'Google.Protobuf' from .deps.json file
+2020-03-22T11:10:20.3793657+00:00:2020-03-22T11:10:20.3788681+00:00:[AssemblyCache] Resolved 'Google.Protobuf' to 'C:\Users\Lanka\.nuget\packages\google.protobuf\3.7.0\lib\netstandard1.0\Google.Protobuf.dll'
+2020-03-22T11:10:20.3946872+00:00:2020-03-22T11:10:20.3941206+00:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.ObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2020-03-22T11:10:20.3955219+00:00:2020-03-22T11:10:20.3950862+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.ObjectModel' from .deps.json file
+2020-03-22T11:10:20.3967711+00:00:2020-03-22T11:10:20.3962769+00:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.TestPlatform.ObjectModel' to 'C:\Users\Lanka\.nuget\packages\microsoft.testplatform.objectmodel\16.2.0\lib\netstandard1.5\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll'
+2020-03-22T11:10:20.4480440+00:00:2020-03-22T11:10:20.4475356+00:00:Assembly resolving Utf8Json, Version=1.3.7.0, Culture=neutral, PublicKeyToken=8a73d3ba7e392e27
+2020-03-22T11:10:20.4491531+00:00:2020-03-22T11:10:20.4484918+00:00:[AssemblyCache] Trying to resolve 'Utf8Json' from .deps.json file
+2020-03-22T11:10:20.4504819+00:00:2020-03-22T11:10:20.4499996+00:00:[AssemblyCache] Resolved 'Utf8Json' to 'C:\Users\Lanka\.nuget\packages\utf8json\1.3.7\lib\netstandard2.0\Utf8Json.dll'
+2020-03-22T11:10:21.4051657+00:00:Thread#0: Test #4/0 is started on thread #0
+2020-03-22T11:10:21.4461453+00:00:2020-03-22T11:10:21.4448459+00:00:Thread#0:B:Given I have entered 50 into the calculator
+2020-03-22T11:10:21.4806931+00:00:2020-03-22T11:10:21.4801646+00:00:Thread#0:T:AAAAAAA50
+2020-03-22T11:10:21.4900659+00:00:2020-03-22T11:10:21.4895928+00:00:Thread#0:T:done: SpecFlowFeatureSteps.GivenIHaveEnteredIntoTheCalculator(50) (0.0s)
+2020-03-22T11:10:21.4922418+00:00:2020-03-22T11:10:21.4917919+00:00:Thread#0:B:And I have entered 70 into the calculator
+2020-03-22T11:10:21.4935570+00:00:2020-03-22T11:10:21.4930857+00:00:Thread#0:T:AAAAAAA70
+2020-03-22T11:10:21.4946755+00:00:2020-03-22T11:10:21.4942284+00:00:Thread#0:T:done: SpecFlowFeatureSteps.GivenIHaveEnteredIntoTheCalculator(70) (0.0s)
+2020-03-22T11:10:21.4960100+00:00:2020-03-22T11:10:21.4955158+00:00:Thread#0:B:When I press add
+2020-03-22T11:10:21.4981611+00:00:2020-03-22T11:10:21.4976804+00:00:Thread#0:T:BBB
+2020-03-22T11:10:21.4991766+00:00:2020-03-22T11:10:21.4987036+00:00:Thread#0:T:done: SpecFlowFeatureSteps.WhenIPressAdd() (0.0s)
+2020-03-22T11:10:21.5004733+00:00:2020-03-22T11:10:21.4999976+00:00:Thread#0:B:Then the result should be 120 on the screen
+2020-03-22T11:10:21.5026162+00:00:2020-03-22T11:10:21.5021303+00:00:Thread#0:T:CCCCC120
+2020-03-22T11:10:21.5035286+00:00:2020-03-22T11:10:21.5030806+00:00:Thread#0:T:done: SpecFlowFeatureSteps.ThenTheResultShouldBeOnTheScreen(120) (0.0s)
+2020-03-22T11:10:21.5198938+00:00:Thread#0:Scheduler: get next test for thread 0
+2020-03-22T11:10:21.5200451+00:00:Thread#:Scheduler: at the end of normal test queue
+2020-03-22T11:10:21.5200648+00:00:Thread#0:Scheduler: enumerator for thread is at end
+2020-03-22T11:10:21.5200783+00:00:Thread#0:Scheduler: No more tests for thread
+2020-03-22T11:10:21.6230391+00:00:Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 0.2160961 seconds
+2020-03-22T11:10:21.6384816+00:00:2020-03-22T11:10:21.6380225+00:00:Got Deinitialize Signal
+2020-03-22T11:10:21.6456232+00:00:RPC Client disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2020-03-22T11:10:21.6457637+00:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2020-03-22T11:10:21.6488540+00:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2020-03-22T11:10:21.6522865+00:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=en-US, PublicKeyToken=b03f5f7f11d50a3a
+2020-03-22T11:10:21.6523234+00:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' from .deps.json file
+2020-03-22T11:10:21.6523294+00:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' from .deps.json
+2020-03-22T11:10:21.6523420+00:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\Lanka\source\repos\FirstSpecflowProject\FirstSpecflowProject\bin\Debug\netcoreapp3.1'
+2020-03-22T11:10:21.6523461+00:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\Lanka\source\repos\FirstSpecflowProject\FirstSpecflowProject\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2020-03-22T11:10:21.6524479+00:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\Lanka\source\repos\FirstSpecflowProject\FirstSpecflowProject\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2020-03-22T11:10:21.6525364+00:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\Lanka\source\repos\FirstSpecflowProject\FirstSpecflowProject\bin\Debug\netcoreapp3.1'
+2020-03-22T11:10:21.6541403+00:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.1'
+2020-03-22T11:10:21.6541610+00:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.1\System.Diagnostics.Process.resources.dll'
+2020-03-22T11:10:21.6542746+00:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.1\System.Diagnostics.Process.resources.exe'
+2020-03-22T11:10:21.6543690+00:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.1'
+2020-03-22T11:10:21.6547010+00:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.1'
+2020-03-22T11:10:21.6547135+00:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.1\System.Diagnostics.Process.resources.dll'
+2020-03-22T11:10:21.6548083+00:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.1\System.Diagnostics.Process.resources.exe'
+2020-03-22T11:10:21.6549017+00:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.1'
+2020-03-22T11:10:21.6552671+00:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.1'
+2020-03-22T11:10:21.6552851+00:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.1\System.Diagnostics.Process.resources.dll'
+2020-03-22T11:10:21.6553770+00:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.1\System.Diagnostics.Process.resources.exe'
+2020-03-22T11:10:21.6554695+00:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.1'
+2020-03-22T11:10:21.6571333+00:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=en, PublicKeyToken=b03f5f7f11d50a3a
+2020-03-22T11:10:21.6692445+00:00:Thread#-1:Scheduler: get next test for thread -1
+2020-03-22T11:10:21.6692884+00:00:Thread#:Scheduler: at the end of normal test queue
+2020-03-22T11:10:21.6693014+00:00:Thread#-1:Scheduler: enumerator for thread is at end
+2020-03-22T11:10:21.6720444+00:00;Thread#12;Info;test run finished
+2020-03-22T11:10:21.6723107+00:00;Thread#12;Info;publishing test results
+2020-03-22T11:10:21.6727285+00:00;Thread#12;Info;Not publishing results.
+2020-03-22T11:10:21.6731362+00:00;Thread#12;Info;test results published
+2020-03-22T11:10:21.6737121+00:00;Thread#12;Info;generating reports
+2020-03-22T11:10:21.8450828+00:00;Thread#12;Info;Starting external report generation process
+2020-03-22T11:10:24.6552600+00:00;Thread#12;Info;Successfully generated reports.
+2020-03-22T11:10:24.6588489+00:00;Thread#12;Info;Successfully generated reports
+2020-03-22T11:10:24.6700610+00:00:Total: 1
+2020-03-22T11:10:24.6724449+00:00:Succeeded: 1
+2020-03-22T11:10:24.6728868+00:00:Ignored: 0
+2020-03-22T11:10:24.6737936+00:00:Pending: 0
+2020-03-22T11:10:24.6738198+00:00:Skipped: 0
+2020-03-22T11:10:24.6742571+00:00:Failed: 0
+2020-03-22T11:10:24.6848913+00:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2020-03-22T11:10:24.6852325+00:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\Lanka\source\repos\FirstSpecflowProject\TestResults\Unnamed project__2020-03-22T111003.html'
+========== End of log file ==========
